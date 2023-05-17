@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Virtual Admision Assistance</string>
+    <string name="laptop">laptop</string>
+    <string name="aitu">AITU</string>
+    <string name="admissions">Admissions</string>
+    <string name="login">Login</string>
+    <string name="menu">Menu</string>
+    <string name="new_ai_that_answers_questions">New AI that answers your questions</string>
+</resources>
